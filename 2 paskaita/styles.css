@@ -1,0 +1,39 @@
+h3 {
+    color:green;
+}
+
+p {
+    font-family: "Robota" sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 1.1;
+    letter-spacing: 2px;
+    text-align: justify;
+}
+
+
+li, h1, .something {
+    font-size:  20px; 
+    color: chocolate;
+}
+
+h1 {
+    text-decoration: line-through;
+    font-size: 30px;
+}
+
+#b-tagas {
+    font-size: 30px;
+}
+
+.big-text {
+    font-size: 35px;
+}
+
+.something {
+    background-color: #520a5255;
+}
+
+body {
+    background-color:rgba(20, 200, 80, 0.5) ; 
+}
